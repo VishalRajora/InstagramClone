@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:title="@string/title_search"
+        android:icon="@drawable/search"/>
+
+    <item
+        android:id="@+id/navigation_Addd"
+        android:title="@string/insta_add"
+        android:icon="@drawable/add"/>
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:title="@string/title_notifications"
+        android:icon="@drawable/heart"/>
+
+    <item
+        android:id="@+id/navigation_user"
+        android:title="@string/insta_user"
+        android:icon="@drawable/user"/>
+
+</menu>
